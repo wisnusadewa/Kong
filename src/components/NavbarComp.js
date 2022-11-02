@@ -13,7 +13,7 @@ export default class NavbarComp extends Component {
     return (
       <Router>
       <div>
-      <Navbar bg="dark" variant='dark' expand="lg" fixed=''>
+      <Navbar bg="dark" variant='dark' expand="lg" fixed='top'>
       <Container>
         <Navbar.Brand as={Link} to="/">KONG</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
