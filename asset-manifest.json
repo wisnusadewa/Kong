@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kong/static/css/main.2b020baf.css",
+    "main.js": "/Kong/static/js/main.19ae66fe.js",
+    "static/js/787.ca8ce5d7.chunk.js": "/Kong/static/js/787.ca8ce5d7.chunk.js",
+    "static/media/1.jpg": "/Kong/static/media/1.de82e6db84e710445fb6.jpg",
+    "index.html": "/Kong/index.html",
+    "main.2b020baf.css.map": "/Kong/static/css/main.2b020baf.css.map",
+    "main.19ae66fe.js.map": "/Kong/static/js/main.19ae66fe.js.map",
+    "787.ca8ce5d7.chunk.js.map": "/Kong/static/js/787.ca8ce5d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b020baf.css",
+    "static/js/main.19ae66fe.js"
+  ]
+}
