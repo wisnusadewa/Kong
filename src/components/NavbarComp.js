@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { NavDropdown, Navbar, Container, Nav } from 'react-bootstrap'
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
+import NavbarCSS from '../style/Navbar.css'
 
 import Home from './Pages/Home';
 import About from './Pages/About';
@@ -13,7 +14,7 @@ export default class NavbarComp extends Component {
     return (
       <Router>
       <div>
-      <Navbar bg="dark" variant='dark' expand="lg" fixed='top'>
+      <Navbar bg="dark" variant='dark' expand="lg" fixed='top' height="10vh">
       <Container>
         <Navbar.Brand as={Link} to="/">KONG</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

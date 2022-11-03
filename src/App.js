@@ -16,11 +16,11 @@ function App() {
     <div>
         
         <NavbarComp />
-        <div className=''>
+        <div>
           <Follow/>
           </div>
         <div className='h-max'><SlideBar/></div>
-        <div className='columns-2 gap-0'><Youtube/></div>
+        <div className='columns-3 gap-0'><Youtube/></div>
         
         {/* <YoutubeReactPlayer/> */}
     </div>
